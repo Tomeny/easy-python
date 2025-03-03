@@ -1,0 +1,7 @@
+# f = open("D:/python/pythonProject2/测试.txt", "a", encoding="UTF-8")
+# f.write("黑马程序员")
+# f.flush()
+# f.close()
+f = open("/测试.txt", "a", encoding="UTF-8")
+f.write("学习python,\n月薪过万")
+f.close()
